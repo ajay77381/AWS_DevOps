@@ -28,3 +28,6 @@ Bigfix is a system management software product for managing large group of compu
 ![image](https://github.com/user-attachments/assets/84dd632c-32f2-4413-996c-9f9f373dec2c)
 
 ![image](https://github.com/user-attachments/assets/2f69b42a-d8c7-4115-a4e4-edf94ceff8eb)
+
+
+![image](https://github.com/user-attachments/assets/44f7170b-195f-42a1-9bad-ca1cd9148769)
