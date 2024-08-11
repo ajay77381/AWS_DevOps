@@ -11,6 +11,9 @@ Bigfix is a system management software product for managing large group of compu
 
 ![image](https://github.com/user-attachments/assets/2de84857-28bf-4bf6-a2e0-0c0c2cbc1ebe)
 
+# What is Fixlet in HCL Hot Fix ?
+
+In HCL BigFix, a fixlet site is a collection of fixlets, tasks, and analyses related to a specific BigFix application. Fixlets and tasks are central to BigFix and are used by BigFix Inventory to perform actions on selected computers
 
 - Port 21/80/443 is use to collect Fixlet messages over the internet from the content provider such as RedHat.
 - Dedicated port is used for http communication between server relay and clients
