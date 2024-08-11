@@ -110,7 +110,7 @@ When you have your license authorization file, you are ready to request a licens
 
 1- Run the BigFix installer BigFix-BES-9.2.6.xxxx.exe, where 9.2.6.xxxx is the version of the installer). When prompted, choose Production installation and accept the Software License Agreement. On the welcome screen, click Next.
 
-Note: If you choose the Evaluation installation, consider that this type of installation does not support the enhanced security option. For more information about this feature, see Security Configuration Scenarios.
+# Note: If you choose the Evaluation installation, consider that this type of installation does not support the enhanced security option. For more information about this feature, see Security Configuration Scenarios.
 
 2- After reading and accepting the License Agreement, select I want to install with an IBM Endpoint Manager license authorization file, to create your Private Key and Masthead
 
