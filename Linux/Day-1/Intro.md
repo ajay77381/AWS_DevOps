@@ -64,3 +64,5 @@ If we open many application  if any case RAM is full in this situation open file
 
 
 
+
+
