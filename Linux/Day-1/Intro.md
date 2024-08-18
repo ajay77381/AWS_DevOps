@@ -36,16 +36,24 @@ What are the top operation performed by the keranl ?
 
 4- System call - This is the an interface between process and the operating system. When the process doesn't have permission to access a resource , a system call provide it without the process accessing the resouce directly.
 
-File system Hierarchy ;
+## File system Hierarchy ;
 
 /home    ---- Home directory for other user
+
 /root    ---- root directory for root user
+
 /boot    ----- it contain bootable file for linux
+
 /etc     ------ it contain the configuration file
+
 /user    ------ by default software instlled in this directory 
+
 /bin   ------- It contain commonds used by the all the user
+
 /sbin    ----  it contain the commonds used by the only root user
+
 opt / ---      optional application package 
+
 /dev ----  essential device file .This include terminal devices , usb, or any device attached to the system.
 
 
