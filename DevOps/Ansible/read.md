@@ -10,35 +10,102 @@ What is Ansible ?
 * Named after a fictional communition device, first used by Ursula K. LeGuin in her novel Rocannon's World in 1966.
 * In 2015 Red Hat acquired Ansible
 
+Why ansible ?
 
-why ansible ?
+Ansible is equally popular to puppet you can see the google graph . popularity is increading day by day.
 
-How does ansible work ?
+![image](https://github.com/user-attachments/assets/31af0dfc-1690-42d5-b691-9259d6bbdb68)
 
-Case study nasa
+**Advantage of Ansible** ?
+
+Easy to learn 
+* Written in pythone
+* Easy installation and configuration steps
+* No need to install ansible on slave
+* Highly scalable
+
+### How does ansible work ?
+
+Instead of going each system ,manually updating we can use ansible to automate the installation using ansible playbook whih are written in very simple language yaml.
+
+**Problem steatment-**
+
+Say josh run an enterprise , want to install new version of Apache Tomcat in all the system
+
+![image](https://github.com/user-attachments/assets/b35e33e5-13d1-4f6f-b6fb-b1cdc1a1ebd7)
+
 
 Setting up master slave
 
-Ansible playbook
+## Ansible playbook
 
-Ansible Roles
+Playbook have number of plays
 
-Using roles in playbook
+play contain task
+
+task calls core or modules
+
+Handler get triggers from notify and executed at the end only once.
+
+![image](https://github.com/user-attachments/assets/c7b28b7f-8872-46ae-bf2f-3f6d148484c0)
 
 
+## Ansible Roles
 
+An Ansible role is a group of task , files and handlers stored in a standardized file structure. Roles are small functionalities which can be used in independently but only within a playbook
+* ANSIBLE play book - organize tasks
+* ANSIBLE Role - organize playbook
 
+## Why do we need ANSIBLE Role ?
 
+Roles simplifies writing complex playbooks
 
+Roles allows you to reuse common configuration steps between different types of servers
 
-![image](https://github.com/user-attachments/assets/faa263b3-c333-4c2e-b8bd-619c5aeb0ecb)
-
+Roles are flexible and can be easily modified
 
 
 # Ansible Archetecher
 
 
 ![image](https://github.com/user-attachments/assets/608f9e38-0643-415c-9e89-84276abf067a)
+
+
+Modules -
+
+Ansible modules are units of code that can control system resources or execute
+system commands
+
+## Installing ANSIBLE on AWS
+
+1- Install ANSIBLE on master
+2- Configure ssh access to ANSIBLE host
+3- Setting up ANSIBLE host and testing connection
+
+
+Step-1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -57,9 +124,6 @@ On Master host machine-
     9  ssh ubuntu@44.202.36.119
    10  clear
    11  history
-
-
-
 
 on Slave Host machine-
 
