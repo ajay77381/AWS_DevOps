@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/42e11e66-b992-4c07-a8fe-1f6b91bd00ea)Agenda
+ # ANSIBLE
 ---
 
 What is Ansible ?
@@ -12,7 +12,7 @@ What is Ansible ?
 
 Why ansible ?
 
-Ansible is equally popular to puppet you can see the google graph . popularity is increading day by day.
+Ansible is equally popular to puppet you can see the google graph . Popularity is increasing day by day.
 
 ![image](https://github.com/user-attachments/assets/31af0dfc-1690-42d5-b691-9259d6bbdb68)
 
