@@ -142,7 +142,7 @@ Insert the new entry in the second line of the file. Save and exit.
 
     7  ssh ubuntu@52.87.235.49
 
-Now i am able to access the slave machine form ANSIBLE master pachine as per below screen shot after adding the created key in slave machine for making -
+Now i am able to access the slave machine form ANSIBLE master pachine as per below screen shot after adding the created key in slave machine-
 
 ![image](https://github.com/user-attachments/assets/c4a34a46-2c86-47a2-b13f-815bf779571b)
 
