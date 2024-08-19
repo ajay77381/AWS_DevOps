@@ -64,6 +64,11 @@ Roles allows you to reuse common configuration steps between different types of 
 
 Roles are flexible and can be easily modified
 
+### Structure of Ansible Role:
+
+![image](https://github.com/user-attachments/assets/68993ec5-4797-4f95-80ea-949464a3ff1d)
+
+
 
 # Ansible Archetecher
 
@@ -79,56 +84,36 @@ system commands
 ## Installing ANSIBLE on AWS
 
 1- Install ANSIBLE on master
+
 2- Configure ssh access to ANSIBLE host
+
 3- Setting up ANSIBLE host and testing connection
 
 
 Step-1
 
+Launched two machine ANSIBLE Master and ANSIBLE Slave
+
+![image](https://github.com/user-attachments/assets/45144bef-6294-4211-b795-d360c0604068)
+
+## On Master host machine installed Ansible using below commond-
+
+     sudo apt-get update
+    sudo apt install software-properties-common
+    sudo apt-add-repository ppa:ansible/ansible
+    sudo apt install ansible
+    sudo apt-get install python3
+
+![image](https://github.com/user-attachments/assets/8fc3d243-8864-4a05-9be1-0e9c73e6b019)
+
+![image](https://github.com/user-attachments/assets/9e6bc8e2-8de7-4021-8400-5b80a6c6cb16)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-On Master host machine-
-
-1  sudo apt-get update
-    2  sudoapt install software-properties-common
-    3  sudo apt install software-properties-common
-    4  sudo at-add-repository ppa:ansible/ansible
-    5  sudo apt-add-repository ppa:ansible/ansible
-    6  sudo apt install ansible
-    8  sudo apt-get install python3
-    9  ssh ubuntu@44.202.36.119
-   10  clear
-   11  history
-
-on Slave Host machine-
+## On slave Host machine-
 
 sudo apt-get update
-sudo apt-get install python
+
+sudo apt-get install python3
 
 ................
 
