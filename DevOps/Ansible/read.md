@@ -1,4 +1,4 @@
-Agenda
+![image](https://github.com/user-attachments/assets/42e11e66-b992-4c07-a8fe-1f6b91bd00ea)Agenda
 ---
 
 What is Ansible ?
@@ -125,15 +125,29 @@ ssh ubuntu@ ip address fo slave host.
 
 once we have created key an added in slave we able to communite from ansible master machine.
 
-ubuntu@ip-172-31-80-34:~/.ssh$ history
+How to create key- 
     1  cd .ssh
     2  ls
-    3  cat authorized_keys
-    4  ssh-keygen
+    3  ssh-keygen -t rsa
     5  ls
     6  cat id_rsa.pub
-    7  ssh ubuntu@44.202.36.119
-    8  history
+
+###   Now on slave machine i copy the pub key inside authorized_keys
+Insert the new entry in the second line of the file. Save and exit.
+
+![image](https://github.com/user-attachments/assets/3935ef72-5a9b-45a0-9230-44ad7f5a4d77)
+
+
+
+
+    7  ssh ubuntu@52.87.235.49
+
+Now i am able to access the slave machine form ANSIBLE master pachine as per below screen shot after adding the created key in slave machine for making -
+
+![image](https://github.com/user-attachments/assets/c4a34a46-2c86-47a2-b13f-815bf779571b)
+
+
+
 
 
 Adding the host name on ansible machine-
