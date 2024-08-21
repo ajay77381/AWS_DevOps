@@ -150,10 +150,21 @@ Now i am able to access the slave machine form ANSIBLE master pachine as per bel
 
 
 
-Adding the host name on ansible machine-
+## Adding the host name on ansible machine-
 
-sodo nano /etc/ansible/hosts
+sudo nano /etc/ansible/hosts
+
 
 [production]
 
-Ansible-Slave ansible_ssh_host=44.202.36.119
+Ansible-Slave ansible_ssh_host=172.31.63.32
+
+![image](https://github.com/user-attachments/assets/43597874-5451-4615-acc8-e49a4f579956)
+
+
+
+
+
+
+
+
