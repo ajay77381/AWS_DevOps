@@ -174,6 +174,29 @@ ansible -m user -a "name=test password=password@123" myappserver --become
 
 Note- we used the user module for creating the test user in the commod.
 
+## Now i have created the project directory **my_ansible_pb** and created a play book file 
+
+ sudo mkdir /my_ansible_pb/
+ 
+ cd /my_ansible_pb
+ 
+ sudo vi myplaybookping.yaml
+
+ ```
+---
+- name: test connectivity to the target server
+  hosts: myappserver
+
+  tasks:
+  - name: ping test
+    ping:
+```
+ ansible-playbook myplaybookping.yaml -i /etc/ansible/hosts
+
+![image](https://github.com/user-attachments/assets/04867c02-76fc-4d9c-8785-212f1faf7a72)
+
+
+
 
 
 
