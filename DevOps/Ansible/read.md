@@ -155,11 +155,28 @@ Now i am able to access the slave machine form ANSIBLE master pachine as per bel
 sudo nano /etc/ansible/hosts
 
 
-[production]
+[myappserver]
 
-Ansible-Slave ansible_ssh_host=172.31.63.32
+172.31.63.32
 
-![image](https://github.com/user-attachments/assets/43597874-5451-4615-acc8-e49a4f579956)
+![image](https://github.com/user-attachments/assets/7df5dcfe-3206-4c35-9bed-020624f04369)
+
+### We getting the response from slave host after pinging . Below is the screen shot-
+
+![image](https://github.com/user-attachments/assets/f6063ef5-8d54-42a9-aa4b-b4ebf14a9a19)
+
+
+Using below commond i created a test user on my Slave  (app server) -
+
+ansible -m user -a "name=test password=password@123" myappserver --become
+
+![image](https://github.com/user-attachments/assets/d39073c6-27f2-47ee-8ea4-61e71d65ee90)
+
+Note- we used the user module for creating the test user in the commod.
+
+
+
+
 
 
 
