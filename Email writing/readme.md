@@ -72,3 +72,59 @@ I also wanted to see if you have any further questions or if there is anything e
 
 Best regards,
 
+
+## Professional E-mail writing 
+
+1- Subject line - This will show why your email is . Subject line should be clear as much as possible.
+
+Dn't forget basics to writing-
+
+Spelling
+Grammer
+Punction
+Captilizationn
+
+
+2- Greetings    - Greeting should be format not to Familiar 
+
+
+
+If you addressign the group or team you can address like that-
+
+Dear marketing team / Dear sales team,
+
+
+
+3- Email text- Main message and all necessary details.
+Don't - Don't writing a book here.
+only include essential detaisl remain brief.
+
+Don't complain or blame readers 
+
+Like- you can write in other works useing self blaming-
+
+Perhaps - ...... was incomplete
+Perhaps - I left somethig out ...
+
+
+
+4- closing  - Just add Regards, or Best Regards
+
+Note- Don't send until you read and check
+
+# Organization style and Editing basics
+
+The best way to be briedf -
+
+Use your own words
+Use your own messages
+
+We often user Adjective and adverb and fillers words which are not necessary 
+
+- Don't use passive voice
+Lokk the below sentence -
+1-powerful Emails are written by people
+ 2- people write powerful emails
+![image](https://github.com/user-attachments/assets/0c0c00a4-c758-4acd-8683-74cbdad3d95e)
+
+
