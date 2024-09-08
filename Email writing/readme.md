@@ -127,4 +127,29 @@ Lokk the below sentence -
  2- people write powerful emails
 ![image](https://github.com/user-attachments/assets/0c0c00a4-c758-4acd-8683-74cbdad3d95e)
 
+After writing the Eamil sit donw and check 
+
+Does it have all the needed information  ?
+Is it easy to understand ?
+
+## words to avoid 
+ Must 
+ should 
+ demand
+ require
+ necessity
+
+ # common error in punction 
+ 6 cmmon error
+Apostrophe  '
+Exclamation mark  !
+Comma , 
+Semiclone :
+Quatation  mark ""
+emoticons :)
+
+ 
+1-  Apostrophe  ' -
+   Possession - 
+
 
