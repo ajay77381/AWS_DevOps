@@ -141,15 +141,18 @@ Is it easy to understand ?
 
  # common error in punction 
  6 cmmon error
-Apostrophe  '
-Exclamation mark  !
-Comma , 
-Semiclone :
+Apostrophe  ' -   Possession - Ram's book
+Exclamation mark  ! -  don't usr more than one time.
+**Comma ,   -** Hey, suji for our meeting later, Today i'll bring all of the supply.coma also user for geographical area - Masco, Russia.  you should put the comma between day- like
+Monday,january 11,2011
+
+**Semiclone ; **  - It use to connect to the part of series when some of the series already connect with coma.
+As- Recent olympic sites are athens Greece;Bejin, China; and landon, Uk.
 Quatation  mark ""
 emoticons :)
 
  
-1-  Apostrophe  ' -
-   Possession - 
+
+   
 
 
