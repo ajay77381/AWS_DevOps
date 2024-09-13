@@ -10,3 +10,8 @@ Type the following command in PowerShell ISE Console
 
 ``New-Item -Path 'D:\temp\Test Folder\Test File.txt' -ItemType File
 ``
+
+For show the version of powershell-
+
+``PSVersionTable
+``
