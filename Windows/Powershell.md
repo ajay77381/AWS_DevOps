@@ -15,3 +15,7 @@ For show the version of powershell-
 
 ``PSVersionTable
 ``
+For show the running and stopped service?
+
+``Get-Service
+``
