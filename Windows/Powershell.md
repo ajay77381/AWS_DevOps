@@ -28,6 +28,7 @@ For show the running and stopped service?
  # clear the log file before running again
  fc > $log_file
 
+````
  $start_timer = Get-Date
  Do {
     $current_time = Get-Date
@@ -37,3 +38,5 @@ For show the running and stopped service?
     $running_seconds = [int]((New-TimeSpan –Start $start_timer –End $current_time).seconds) 
     Write-Output  "Running for: $($running_minutes)m:$($running_seconds)s" | Out-File -Append -Encoding UTF8 -FilePath  $log_file
  } Until ($running_minutes -ge $limit_in_minutes)
+
+`````
