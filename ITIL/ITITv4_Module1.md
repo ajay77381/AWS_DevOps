@@ -33,6 +33,19 @@ ITIL 4 provides the guidance organizations need to address new service managemen
 
 - In the ever-evolving world of IT service management, the need to deliver consistent value to stakeholders is paramount.
 - ITIL4 introduce the service value system (SVS) a holistic framework that guides ogranization in acheiving this goal
-- 
+
+
+
+Q1- What is a major trend shaping modern IT Service Management practices?
+
+Correct
+Correct! Artificial intelligence is significantly shaping modern IT service management practices.
+
+Q2- Which of the following are implications of the digital transformation trend on IT Service Management?
+
+Correct! Cybersecurity becomes more vital with increased digitalization.
+Correct! Cloud-based services often become more in demand with digital transformation.
+
+
 
 
