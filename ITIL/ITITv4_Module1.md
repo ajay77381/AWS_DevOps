@@ -30,3 +30,9 @@ ITIL has led the ITSM industry with guidance, training, and certification progra
 ITIL 4 provides the guidance organizations need to address new service management challenges and utilize the potential of modern technology. It is designed to ensure a flexible, coordinated and integrated system for the effective governance and management of IT-enabled services.
 
 ## Introduction to service value system 
+
+- In the ever-evolving world of IT service management, the need to deliver consistent value to stakeholders is paramount.
+- ITIL4 introduce the service value system (SVS) a holistic framework that guides ogranization in acheiving this goal
+- 
+
+
