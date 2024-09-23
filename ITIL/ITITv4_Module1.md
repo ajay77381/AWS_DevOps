@@ -10,7 +10,7 @@ It enables business to collebrate with IT team to deliverd IT service to stakeho
 
 ## Benefits of ITIL practice -
 
--Lower cost 
+ - Lower cost 
 - High quality of IT services
 - Increase the business productivity
 - It improve the return on investement
