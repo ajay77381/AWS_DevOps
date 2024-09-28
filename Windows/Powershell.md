@@ -40,3 +40,38 @@ For show the running and stopped service?
  } Until ($running_minutes -ge $limit_in_minutes)
 
 `````
+
+1.1. What is PowerShell?
+
+- PowerShell is a command-line shell.
+- PowerShell is a scripting environment.
+- PowerShell is an automation engine.
+
+These are all part of the answer. We prefer to say PowerShell is a tool you can use to manage your Microsoft-based machines and applications that programs consistency into your management process. The tool is attractive to administrators and developers in that it can span the range of command line, simple and advanced scripts, to real programs.
+
+ Basic expressions and variables
+``PS> 2+2
+``
+4
+
+Notice as soon as you typed the expression, the result was calculated and displayed. It wasn’t necessary to use any kind of print statement to display the result. It’s important to remember whenever an expression is evaluated, the result of the expression is output, not discarded. PowerShell supports most of the basic arithmetic operations you’d expect, including floating point.
+
+PS> (2+2)*3/7 > c:\foo.txt
+PS> Get-Content c:\foo.txt
+1.71428571428571
+
+Saving expressions into files is useful; saving them in variables is more useful:
+
+PS> $n = (2+2)*3
+PS> $n
+12
+
+PS> $n / 7
+1.71428571428571
+
+
+ 
+
+
+
+
