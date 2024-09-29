@@ -11,34 +11,38 @@ like-
 
 PS C:\Users\test> Get-Service
 
+
 Status   Name               DisplayName
 ------   ----               -----------
 Stopped  AarSvc_685fdf4     Agent Activation Runtime_685fdf4
+
 Running  AdobeARMservice    Adobe Acrobat Update Service
+
 Stopped  AJRouter           AllJoyn Router Service
+
 Stopped  ALG                Application Layer Gateway Service
+
 Stopped  AppIDSvc           Application Identity
+
 Running  Appinfo            Application Information
+
 Stopped  AppMgmt            Application Management
+
 Stopped  AppReadiness       App Readiness
+
 Stopped  AppVClient         Microsoft App-V Client
+
 Running  AppXSvc            AppX Deployment Service (AppXSVC)
+
 Stopped  AssignedAccessM... AssignedAccessManager Service
+
 Running  AudioEndpointBu... Windows Audio Endpoint Builder
+
 Running  Audiosrv           Windows Audio
-Stopped  autotimesvc        Cellular Time
-Stopped  AxInstSV           ActiveX Installer (AxInstSV)
-Stopped  BcastDVRUserSer... GameDVR and Broadcast User Service_...
-Stopped  BDESVC             BitLocker Drive Encryption Service
-Running  BFE                Base Filtering Engine
-Stopped  BITS               Background Intelligent Transfer Ser...
-Stopped  BluetoothUserSe... Bluetooth User Support Service_685fdf4
-Running  BrokerInfrastru... Background Tasks Infrastructure Ser...
-Stopped  BTAGService        Bluetooth Audio Gateway Service
 
-What will happen if we add the name. We'll be able to know about a particular service.
+- What will happen if we add the name. We'll be able to know about a particular service.
 
-If we want to know, what are the other command related to get then we can use below command to know?
+- If we want to know, what are the other command related to get then we can use below command to know?
 
 Get-Command -Name "Get-Service" -Syntax
 
