@@ -60,3 +60,42 @@ These kinds of trust between a domain or a forest with another domain and a fore
 
 As we know active directory is a collection of user, gourp , services and resources and all know as object and active directory is installed in our network on a server and this server called a active directory domain controlled.
 
+Type of object ?
+1- container object- can contain other object like- Forest,tree,Domain,OU
+2- Leaf object - can not contain any other object like- printer 
+
+What is windows Server doamin ?
+
+It logical group of computer which user shared central directory database.running version of microsoft windows operating system 
+
+
+## Active directory forest and Tree ?
+
+Forest- it is a largest container in active directory . collection of tree called forest
+![image](https://github.com/user-attachments/assets/9b4190f2-d1c2-42fd-bd0a-7b782aa77d31)
+
+
+Tree- An Active Directory (AD) tree is a collection of domains within a Microsoft...
+
+##b Active directory OU
+
+It is also a container object which can contain other object . It is smallest container in active directory 
+
+## Benefits of OU
+
+Applying security policy 
+
+##  What is Active Directory Schema ?
+
+The Microsoft Active Directory schema contains formal definitions of every object class that can be created in an Active Directory forest. The schema also contains formal definitions of every attribute that can exist in an Active Directory object. This section provides the reference for each schema object and provides a brief explanation of the attributes, classes, and other objects that make up the Active Directory schema.
+
+In short - schema is a combition of object , classess, and object attributes
+
+## Active directory trust ?
+
+Allow access between 
+
+
+
+
+
