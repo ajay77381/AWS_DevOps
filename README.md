@@ -2,7 +2,9 @@ Self intro-
 
 My name is Ajay I am an IT professional with 12 years of experience in IT field.
 As for as about my education qualification. I did my graduation from DDU university GKP in 2012. After that I started my carrier as a System Admin in 2012. Currently working with Concentrix as a Sr.Technical Support (IT Lead)
+
 Q-2- What is your day to day activity in your organization?
+
 Manage all IT Infrastructure Services Including Compute, Network, Server, Microsoft 365, Microsoft Azure, Telephony, Printers and Video Conferencing equipment within my organization with 6000+ seating capacity. Lead a team of 10 end user support professionals to implement cost-effective IT solutions and ensure high quality service delivery while adhering to ITSM Concepts.
 •	End User Device Management:  Manage the deployment, Maintenance and troubleshooting of end user devices desktops, Laptop, mobile and peripherals 
 
