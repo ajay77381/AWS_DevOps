@@ -93,9 +93,16 @@ In short - schema is a combition of object , classess, and object attributes
 
 ## Active directory trust ?
 
-Allow access between 
+Allow access between multiple domain and or/forest either single forest or accross multiple enterprise network .
+Tust relationship allows administrator from a particular domain to grant access to their domain's user resouce to user in other domain.
 
 
+## Active Directory Naming Contexts and Directory Partitions | Active Directory Partitions or NC
+
+
+
+ for increase effecency of active directory . Active directory divides informaton into multiple partitions.Also called naming contexts.
+  each domain controller's copy of the ntds.dit data base file    will contain a minimum of three NCs.
 
 
 
