@@ -9,8 +9,11 @@ The benefits of using MPLS are as follows:
 
 Multiple degrees of QoS:  Multiple degrees of QoS is supported. They check latency, jitter, and packet loss for various types of traffic such as voice, video, email, and bulk file transfers, etc.
 Label-based switching:  Convergence is fast due to label-based switching. It cuts the need for routing tables.
+
 IP VPNs:  IP VPNs are expandable.
+
 MPLS TE:  Network congestion is minimum by using MPLS TE.
+
 Reliable:  MPLS is reliable, safe, and trustworthy.
 
 3. What are the MPLS router types?
@@ -18,12 +21,16 @@ Reliable:  MPLS is reliable, safe, and trustworthy.
 The following are the MPLS router types:
 
 C – Customer Router
+
 CE – Customer Edge Router
+
 PR – Provider Router
+
 PE – Provider Edge Router
 
+
 4. What is the difference between a P and a PE router?
-5. 
+
 P router does not contain customer network routes. These routes are, however, available on the PE router. Also, P routers do not need MP-iBGP. For PE routers, MP-iBGP is a must.
 
 6. Name the types of labels.
@@ -41,12 +48,15 @@ There are three types of MPLS available:
 Layer 2 point to point
 Layer 3 IP VPN
 Layer 2 VPLS
+
 a. MPLS Layer 2 Point to Point:
+
 The layer 2 point to point MPLS is the best suited for companies that need high bandwidth between a small number of sites.
 It is economical.
 It is an excellent alternative to high bandwidth leased lines.
 Many network operators depend on Layer 2 and Ethernet for their core network infrastructure.
 This protocol allows anything running over the LAN to be sent to the WAN without the need for routers to convert packets to Layer 3 (Network Layer).
+
 b. MPLS Layer 3 IP/VPN:
 The Layer 3 IP/VPN is best suited for large multi-site enterprises such as retail chains.
 They deploy a large number of low bandwidth sites or large corporates
@@ -57,7 +67,9 @@ Preparing for voice and data convergence: to implement a blanket ‘class of ser
 Migrating from traditional ATM to IP: ATM has very high maintenance charges.
 Low bandwidth needs at small branch offices.
 Need of only a secure dial-up capability in smaller locations
+
 c. Layer 2 Virtual Private LAN Services (VPLS):
+
 The VPLS services are popular for delivering Ethernet services.
 They combine both MPLS and Ethernet for customer and carrier benefits.
 IP backbones have been used to provide Internet access as well as IP VPN access.
@@ -75,6 +87,7 @@ VPN:
 VPN is referred to as Virtual Private Network. 
 It could be configured using GRE tunnels. 
 If you want a full mesh then the administrator needs to set u n*n-1 tunnels.
+
 MPLS:
 
 In the case of MPLS VPN, CPE works in the full mesh by default.
