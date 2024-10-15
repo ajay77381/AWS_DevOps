@@ -158,3 +158,6 @@ MPLS filters can be labeled by using ACLs.
 20. Two routers are having 4 equal-cost links, how many LDP sessions will be established?
     
 Only one session will be established between the two routers having 4 equal-cost links.
+
+
+![image](https://github.com/user-attachments/assets/06b6a7d7-544d-4092-a81d-4b8c6c3b6524)
