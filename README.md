@@ -74,3 +74,76 @@ IT Infrastructure
 •	Customer VOC score of >/=9.
 •	Ticket SLA (response and resolution)= 99.9%
 
+
+
+
+
+Sanjeev verma-
+
+
+Mother Dairy Fruit & Vegetable Pvt. Ltd. logo
+Mother Dairy Fruit & Vegetable Pvt. Ltd.
+Mother Dairy Fruit & Vegetable Pvt. Ltd.
+19 yrs 4 mos19 yrs 4 mos
+Deputy Manager
+Deputy Manager
+Full-timeFull-time
+Nov 2007 - Present · 17 yrsNov 2007 to Present · 17 yrs
+Noida Area, IndiaNoida Area, India
+Accountable for IT Infrastructure Projects Management in Designing, Implementing, Testing & Commissioning. along with incident, change & problem management.
+Managing IT Infrastructure as per organizational requirements, governed by best practices & standard. protocols.
+Maintaining Active Directory Users, Groups, AD Policies & troubleshooting.
+Administration and troubleshooting of Exchange 2010 Servers
+Maintaining Exchange Users, Groups, user mail box quota etc.
+Administration and troubleshooting of Trend Micro solution IMSS – Mail Gateway, SMEX, DLP etc.
+Core team member of integrated response management system (IRMS) for mother Dairy for all function like IT, Marketing & FES department. & Integration of IRMS with Mother Dairy website & Global Virtual No. for creating, updating & closing request thru SMS
+Managing Support Team responsible for administration, troubleshooting and support for MS Windows technology & Trend Micro antivirus and virus related issues
+Responsible for Update management of Windows & Trend product (AV, SMEX & IMSS)
+Responsible for renewals of IT Services contact along with IT Budget Management.
+Accountable for closer of GAP found in security risk assessment to achieve the compliance.
+Monitoring, & maintained exchange 2010 along with the cloud mailing solution (Rediffmail) 
+Managing cloud Infrastructure (AWS).
+Core Team Member for evaluations, comparison and procurement of End User backup solution Maintained detailed technical documentation of Infrastructure landscape of Mother Dairy 
+Team lead for planning, testing, implementation and migration of In-House Data Centre to IBM managed Nxtra Data Centre – Wintel.
+Experience and demonstrated skill in Virtualization management VMware / MS Hyper-V
+ -VCenter, VMotion, HA etc. 
+Member of team created for Implementation for Exchange 2010 in place of Lotus domino, contributed significant cost savings to the organization.Accountable for IT Infrastructure Projects Management in Designing, Implementing, Testing & Commissioning. along with incident, change & problem management. Managing IT Infrastructure as per organizational requirements, governed by best practices & standard. protocols. Maintaining Active Directory Users, Groups, AD Policies & troubleshooting. Administration and troubleshooting of Exchange 2010 Servers Maintaining Exchange Users, Groups, user mail box quota etc. Administration and troubleshooting of Trend Micro solution IMSS – Mail Gateway, SMEX, DLP etc. Core team member of integrated response management system (IRMS) for mother Dairy for all function like IT, Marketing & FES department. & Integration of IRMS with Mother Dairy website & Global Virtual No. for creating, updating & closing request thru SMS Managing Support Team responsible for administration, troubleshooting and support for MS Windows technology & Trend Micro antivirus and virus related issues Responsible for Update management of Windows & Trend product (AV, SMEX & IMSS) Responsible for renewals of IT Services contact along with IT Budget Management. Accountable for closer of GAP found in security risk assessment to achieve the compliance. Monitoring, & maintained exchange 2010 along with the cloud mailing solution (Rediffmail) Managing cloud Infrastructure (AWS). Core Team Member for evaluations, comparison and procurement of End User backup solution Maintained detailed technical documentation of Infrastructure landscape of Mother Dairy Team lead for planning, testing, implementation and migration of In-House Data Centre to IBM managed Nxtra Data Centre – Wintel. Experience and demonstrated skill in Virtualization management VMware / MS Hyper-V  -VCenter, VMotion, HA etc. Member of team created for Implementation for Exchange 2010 in place of Lotus domino, contributed significant cost savings to the organization.
+IT Asset Management, Virtualization and +2 skills
+IT Executive
+IT Executive
+Jul 2005 - Oct 2007 · 2 yrs 4 mosJul 2005 to Oct 2007 · 2 yrs 4 mos
+Pilkhuwa U.P.Pilkhuwa U.P.
+ Maintaining Server, Desktops & Laptops having OS Windows 98/XP/2000 Workstations with application software’s like Office 97/ 2000.
+ Configuration of MS Out look, Louts notes, Netscape communicator
+ Providing support to the end users, troubleshoot user’s queries.
+ Ensuring proper backup of server & testing of backup thru routine restoration of backup.
+ Managing & updating the data base of in-house Software of Gate-Pass. 
+ Prepare monthly Breakdown report, Hardware checklist report, etc.
+ Follow-up with vendors in case of hardware or software problem resolution. 
+ Track inventory of any items sent for repairs and follow up for replacement. 
+ Creating & Maintain Vendor Database and escalation matrix to manage and escalate issues.
+ In-Charge Web Bridge operation & responsible for uninterrupted web bridge operations Maintaining Server, Desktops & Laptops having OS Windows 98/XP/2000 Workstations with application software’s like Office 97/ 2000.  Configuration of MS Out look, Louts notes, Netscape communicator  Providing support to the end users, troubleshoot user’s queries.  Ensuring proper backup of server & testing of backup thru routine restoration of backup.  Managing & updating the data base of in-house Software of Gate-Pass.  Prepare monthly Breakdown report, Hardware checklist report, etc.  Follow-up with vendors in case of hardware or software problem resolution.  Track inventory of any items sent for repairs and follow up for replacement.  Creating & Maintain Vendor Database and escalation matrix to manage and escalate issues.  In-Charge Web Bridge operation & responsible for uninterrupted web bridge operations
+IT Asset Management
+HCL Infosystems Ltd. logo
+Customer support executive
+Customer support executive
+HCL Infosystems Ltd.HCL Infosystems Ltd.
+Jan 2001 - Jun 2005 · 4 yrs 6 mosJan 2001 to Jun 2005 · 4 yrs 6 mos
+Delhi - NCRDelhi - NCR
+From: Jan. 2000 To: Feb. 2003 as Hardware Engineer in ‘NIG’ Group.. *NIG ( New Installation Group)
+From: March 2003 To: Feb 2004 Residence Engineer in NHPC Faridabad.
+From: Feb 2004 to Jun 2005 as Technical Support Engg in GZB Location (GZB, Bulandshahar).
+
+Key Rolls
+ Maintaining Desktops/ Laptops having OS Windows 98/XP/2000 Workstations with application software’s like Office 97/ 2000.
+ Configuration & Maintenance of Network.
+ Installation of Software’s like AutoCAD, MS products(MS Dos, Windows 95, 98, XP, WinNT Pro, win2000 pro, Office 97,2000,XP) 
+ Configuration of MS Out look, Louts notes, Netscape communicator
+ Installation of WINNT, WIN2000, NOVEL 4.1Server with setup of LAN
+From: Jan. 2000 To: Feb. 2003 as Hardware Engineer in ‘NIG’ Group.. *NIG ( New Installation Group) From: March 2003 To: Feb 2004 Residence Engineer in NHPC Faridabad. From: Feb 2004 to Jun 2005 as Technical Support Engg in GZB Location (GZB, Bulandshahar). Key Rolls  Maintaining Desktops/ Laptops having OS Windows 98/XP/2000 Workstations with application software’s like Office 97/ 2000.  Configuration & Maintenance of Network.  Installation of Software’s like AutoCAD, MS products(MS Dos, Windows 95, 98, XP, WinNT Pro, win2000 pro, Office 97,2000,XP)  Configuration of MS Out look, Louts notes, Netscape communicator  Installation of WINNT, WIN2000, NOVEL 4.1Server with setup of LAN 
+EducationEducation
+Government Polytechnic College logo
+Government Polytechnic College
+Government Polytechnic College
+Diploma, Electrical, Electronics and Communications EngineeringDiploma, Electrical, Electronics and Communications Engineering
+1995 - 1998
