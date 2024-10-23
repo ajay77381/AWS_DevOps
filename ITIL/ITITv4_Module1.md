@@ -29,6 +29,22 @@ Modules 1:
 
 - Defining products and services, service relationships, outcomes, costs, and risks within ITIL frameworks.
 
+## 5.Value Co-Creation, Organization Consumers, Customers, and Other Stakeholders
+
+- Emphasizing the concept of value co-creation within ITIL frameworks.
+
+- Recognizing the roles of service providers, consumers, and stakeholders.
+
+- Managing and fulfilling customer expectations while considering stakeholder influence on service delivery.
+
+## 6.Products, Services, Service Relationships & Value Outcomes, Costs, and Risks
+
+- Optimizing resource configuration for value creation.
+
+- Defining service offerings and understanding the Service Relationship Model.
+
+- Identifying service outcomes, associated costs, managing risks, and differentiating utility and warranty in IT services.
+
 
 
 
