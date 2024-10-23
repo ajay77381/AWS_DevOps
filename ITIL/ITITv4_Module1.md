@@ -1,3 +1,23 @@
+Modules 1:
+- Introduction to ITIL v4
+- Understanding the foundational importance of ITSM and ITIL framework.
+- Identifying key milestones and versions of ITIL.
+- Recognizing ITIL's significance in organizational operations.
+
+
+## 2.Core Components of Service Value System
+
+- Comprehensive analysis of the Service Value System (SVS) within ITSM.
+
+- Evaluating core components to enhance service delivery.
+
+- Understanding the four dimensions of ITSM and their integration within ITIL 4.
+
+
+
+
+
+
 # Explain ITIL framework 
 
 - ITIL is information technology infrastructure Library is a management framework used in delivering IT services.
@@ -45,6 +65,8 @@ Q2- Which of the following are implications of the digital transformation trend 
 
 Correct! Cybersecurity becomes more vital with increased digitalization.
 Correct! Cloud-based services often become more in demand with digital transformation.
+
+
 
 
 
