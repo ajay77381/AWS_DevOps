@@ -13,6 +13,22 @@ Modules 1:
 
 - Understanding the four dimensions of ITSM and their integration within ITIL 4.
 
+## 3.Introduction to ITIL Management and General Management Practices
+
+- Exploring General Management Practices and identifying embedded processes.
+
+- Understanding Service Management Practices and their role in service delivery excellence.
+
+- Delineating Technical Management Practices for proficient technical management in IT operations.
+
+##  4. Key Concepts of Service Management
+
+- In-depth exploration of ITIL concepts and terminology.
+
+- Understanding the nature of value and value co-creation in IT service delivery.
+
+- Defining products and services, service relationships, outcomes, costs, and risks within ITIL frameworks.
+
 
 
 
