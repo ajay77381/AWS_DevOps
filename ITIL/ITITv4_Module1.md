@@ -1,11 +1,12 @@
-Modules 1:
+## Modules 1:
 - Introduction to ITIL v4
 - Understanding the foundational importance of ITSM and ITIL framework.
 - Identifying key milestones and versions of ITIL.
 - Recognizing ITIL's significance in organizational operations.
 
+## Modules 2:
 
-## 2.Core Components of Service Value System
+ 2.Core Components of Service Value System
 
 - Comprehensive analysis of the Service Value System (SVS) within ITSM.
 
@@ -13,7 +14,9 @@ Modules 1:
 
 - Understanding the four dimensions of ITSM and their integration within ITIL 4.
 
-## 3.Introduction to ITIL Management and General Management Practices
+## Modules 3:
+
+3.Introduction to ITIL Management and General Management Practices
 
 - Exploring General Management Practices and identifying embedded processes.
 
@@ -21,7 +24,8 @@ Modules 1:
 
 - Delineating Technical Management Practices for proficient technical management in IT operations.
 
-##  4. Key Concepts of Service Management
+## Modules 4:
+4. Key Concepts of Service Management
 
 - In-depth exploration of ITIL concepts and terminology.
 
@@ -29,7 +33,8 @@ Modules 1:
 
 - Defining products and services, service relationships, outcomes, costs, and risks within ITIL frameworks.
 
-## 5.Value Co-Creation, Organization Consumers, Customers, and Other Stakeholders
+## Modules 5:
+ 5.Value Co-Creation, Organization Consumers, Customers, and Other Stakeholders
 
 - Emphasizing the concept of value co-creation within ITIL frameworks.
 
@@ -37,7 +42,9 @@ Modules 1:
 
 - Managing and fulfilling customer expectations while considering stakeholder influence on service delivery.
 
-## 6.Products, Services, Service Relationships & Value Outcomes, Costs, and Risks
+## Modules 6:
+
+ 6.Products, Services, Service Relationships & Value Outcomes, Costs, and Risks
 
 - Optimizing resource configuration for value creation.
 
