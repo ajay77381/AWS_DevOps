@@ -44,6 +44,20 @@ We need ITIL because it provide holistic approach ot ITSM. It enables business t
 - Greater customer satisfaction
 - Improve the resource utilization
 
+What is ITILV4 ?
+
+ITIL4 holistic approach, focus on end to end product and service management , from deman to value. ITIL4 also provide guidance on the new methode to help idividuals and organizations see their benefits and move towards using them with confideance , focus and minimal disruption
+
+![image](https://github.com/user-attachments/assets/fd9e7d07-3396-439f-b3f2-da28f30530de)
+
+ITIL4 is not about introducing new fundamental ideas of service management and should be seen as an expansion of the time-tested ITIL framework, not a replacement earlier versions.
+
+ITIL4 take a new approach to presenting this guidance.
+
+The earlier version of ITIL the service life cycle has been dropped in ITIL4 and those process replaced with practices.
+
+In the modern technology world. There are multiple methodologies followed, especially 
+Agile, DevOps, lean
 
 
 
