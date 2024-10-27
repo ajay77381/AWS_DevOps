@@ -37,12 +37,12 @@ We need ITIL because it provide holistic approach ot ITSM. It enables business t
 
 ## Benefits of ITIL practice -
 
-Lower cost
-High quality of IT services
-Increase the business productivity
-It improve the return on investement
-Greater customer satisfaction
-Improve the resource utilization
+- Lower cost
+- High quality of IT services
+- Increase the business productivity
+- It improve the return on investement
+- Greater customer satisfaction
+- Improve the resource utilization
 
 
 
