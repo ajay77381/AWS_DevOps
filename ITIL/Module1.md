@@ -60,10 +60,40 @@ In the modern technology world. There are multiple methodologies followed, espec
 Agile, DevOps, lean
 
 
+## Introduction to Service value system 
+
+- In the ever-evolving world of IT service management , the need to deliver consistant value to stakeholders is paramount.
+- ITILv4 introduce the service value system (SVS), a holistic framework that guide organization to achieving this goal.
+- The SVS emphasizes value creation as the core objective , moving beyond simply managing IT process. It function as a comprehensive operating model, encompassing various component that work together to transform opportunities and demands into valuable services and products.
 
 
 
+## Component of Service value system 
 
+
+![image](https://github.com/user-attachments/assets/2281a378-347e-4625-a155-487ee303d7b8)
+
+As you can look in to this above picture  
+
+### Guiding principles:
+
+This principles offer a set of core valuees  that guide decision making and shap the overall approach to service management within the organization 
+
+### Governance:
+
+This component ensure effective direction and oversight of the service value system , aligning it with the organization's over all strategy and objectives.
+
+### Service value chain :
+
+This chain define the key activities involved in the journey from identifying opportunities and demands to delivering and supporting valuable services
+
+### Practices :
+
+Represent the specific methodes and tools used to implement and execute the various activities within the service value chain 
+
+### Continual improvement ;
+
+This principal emphasizes the importance of continious learning and adoption , and enabling organization to constantly improve theire svs and optimize for value creation 
 
 
 
