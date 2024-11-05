@@ -30,3 +30,10 @@ There are various technology supporting service mangement which are -
 
   Relationship between organization's may involve various level of integration and formality.
   An organization's strategy should be base on it's goal,culture, and business environment
+
+    ## 4th dimension
+
+  Value streams and Processes
+
+  ![image](https://github.com/user-attachments/assets/fe22b943-8ab7-424a-bdb7-97dd8d4cd416)
+
