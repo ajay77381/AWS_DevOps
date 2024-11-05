@@ -37,3 +37,11 @@ There are various technology supporting service mangement which are -
 
   ![image](https://github.com/user-attachments/assets/fe22b943-8ab7-424a-bdb7-97dd8d4cd416)
 
+  ![image](https://github.com/user-attachments/assets/0fa55e0c-471b-430a-9bb9-56acdd6f1f0c)
+
+  ![image](https://github.com/user-attachments/assets/e478b9e6-0520-44a9-98cf-c3a431135eed)
+
+  
+
+
+
