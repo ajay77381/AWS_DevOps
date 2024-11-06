@@ -18,3 +18,8 @@ This process oversees the infrastructure and platforms used by an organization
 
 This process ensures that application meets internal and external stakeholder needs. 
 ​
+
+![image](https://github.com/user-attachments/assets/7f22842c-1144-411f-8dc2-565a81b3abe5)
+
+
+
