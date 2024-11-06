@@ -20,7 +20,7 @@ There are
 
   General management Practices -14 processes
 
-  The first one Architecture management
+  The first one Architecture management- **Manage the relationship between their architecture and the various parts of their business.**
   
   ![image](https://github.com/user-attachments/assets/59ed974a-84fd-4ceb-876c-65718f481a66)
 
@@ -49,5 +49,10 @@ Tweth one is Strategy management
 Thirteen one is   Supplier management 
 
 Fourteen is workforce and talent management 
+
+
+![image](https://github.com/user-attachments/assets/525dacd2-8b82-449f-a40d-b716018ee8ff)
+![image](https://github.com/user-attachments/assets/0bc82f38-4253-490d-8b52-26c892c2adb3)
+
 
 
