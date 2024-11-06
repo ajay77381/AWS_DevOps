@@ -1,3 +1,4 @@
+### Introduction to Key Concepts and Terminology of ITIL
 
 - In this course, we will get foundational understanding of the key concepts in service management
 - Enabling them to contribute to effective service delivery and aligning IT services with organizational goals.
