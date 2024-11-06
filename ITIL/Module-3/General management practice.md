@@ -1,8 +1,11 @@
 Learning objective 
 
 1- Understanding the Service value chain
+
 2- General management practices which are 14
+
 3- Service management Practices which are 17
+
 4- Technical management practics which are 3
 
 all of this subject to the 4 dimension of the service management
