@@ -7,14 +7,14 @@ The ITIL defines technical management as a function. Thus, when the ITIL refers 
 
 ## Three Practices Involved in Technical Management Practices
 
- ##No.1-  Deployment management-
+ ### No.1-  Deployment management-
  This practice moves the new or changed hardware, software, documentation, processes, or any other component to the live environment
 
-## No.2- infrastructure and platform management
+### No.2- infrastructure and platform management
 
 This process oversees the infrastructure and platforms used by an organization
 
-## No.3- oftware development and management-
+### No.3- oftware development and management-
 
 This process ensures that application meets internal and external stakeholder needs. 
 ​
