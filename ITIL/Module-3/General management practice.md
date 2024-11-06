@@ -24,3 +24,30 @@ There are
   
   ![image](https://github.com/user-attachments/assets/59ed974a-84fd-4ceb-876c-65718f481a66)
 
+The second is Continual improvement 
+
+Third one information security management
+
+The Fourth is knowledge management
+
+The Fifth one is measurement and reporting 
+
+The six one is organization change management
+
+The seventh one is portfolio mangement
+
+The Eight one is Project management 
+
+The nineth one is relationship management
+
+Tenth one is risk management 
+
+Evelventh one is service financial management
+
+Tweth one is Strategy management 
+
+Thirteen one is   Supplier management 
+
+Fourteen is workforce and talent management 
+
+
