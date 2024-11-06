@@ -19,8 +19,8 @@ There are totally 17 processes involved here.
 
 - 1- availability management-  This practice ensures services are delivered as per the agreed levels of availability to meet the needs of the consumers
 
-- 2-  is business analysis- This process talks about how to analyze business, identify the needs, and recommend appropriate solutions.
-- 3-  is capacity and performance management -  This practice ensures that services are achieved as per the agreed and expected performance levels. It also satisfies the current and future demands.
+- 2-business analysis- This process talks about how to analyze business, identify the needs, and recommend appropriate solutions.
+- 3- capacity and performance management -  This practice ensures that services are achieved as per the agreed and expected performance levels. It also satisfies the current and future demands.
 
 - 4- change control -
 - 5- Incident management
