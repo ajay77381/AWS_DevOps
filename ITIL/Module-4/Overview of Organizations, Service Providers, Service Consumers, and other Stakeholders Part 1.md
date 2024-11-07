@@ -12,3 +12,8 @@ some of the examples of organization to understand it better. Associations, so a
 When provisioning the services, an organization takes on the role of the service provider. The provider can be external to the consumer's organization or they can both be part of the same organization. Let's look at an example where an IT team is delivering a service to the external stakeholder, that is external service provider. The example for internal service provider is an IT team providing their service to other departments within an organization, that is, internal service provider.
 
 some of the examples of service providers. Healthcare facilities is also a form of service provision. Financial, cloud service, so in the modern world, we have Amazon Web Services, Azure. All of those are example of cloud service. Network service, Internet service. So these are all the examples of service providers. They make sure they deliver the service to the end user or the consumer and provide the appropriate level of service in a given period of time
+
+## Overview of Organizations, Service Providers, Service Consumers, and other Stakeholders Part 2-
+
+
+
