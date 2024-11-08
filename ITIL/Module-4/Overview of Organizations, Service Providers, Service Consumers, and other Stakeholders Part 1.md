@@ -97,7 +97,48 @@ Let's look at the internal stakeholders. They are those that work within the sam
 
 
 
+## Overview of Organizations, Service Providers, Service Consumers, and other Stakeholders Part 4 -
 
 
+ ## stakeholder management and the key aspects of stakeholder management in ITIL- 
+ 
+ For the success and even the continued existence of an organization, it is important that relationships with all key stakeholders are understood and managed. If the stakeholders are unhappy with what the organization does or how it does it, the provider's relationship with its consumers can be in jeopardy.
+
+Products and services create value for stakeholders in a number of ways. Some are quite direct, such as the generation of revenue, while the others are more indirect, such as employee experience. 
+
+For example, let's take the work of a call center. The role of the agent is to ensure that they resolve the customer issues. However, the agent also need to ensure that the customer is satisfied with this approach.
+
+
+## What is Products and services Part 1 -
+
+ What is a product? 
+ 
+ Let's look at it from an example. You can go into a store and purchase a laptop. The laptop represents a product. Does it mean that products have to be tangible? Not really. In the same store, you can also purchase an MS Office 2019 software. Software is intangible, but yet it is a product.
+ 
+ A product is something that you can buy once and use it for as long as you need to. Provided the laptop or the MS Office software stays relevant 10 years from now or even 20. Service provider organizations have different types of resources like, people, technology, networks, storage, and so on. They combine and configure these resources in order to create products. Products are a configuration of resources that have potential value for customers. These products in of themselves do not create value or generate value for customers. In order to be able to do that, the service provider describes the outcomes that can be achieved by using these products in the form of service offerings. These service offerings describe the quality, cost, timeliness, risks associated with using these products and customer look at these service offerings to decide which is the best one for them. Once they have selected a service offering, the customer and the service provider enter into what's called a service relationship. It is in that service relationship, the value gets generated. Value gets generated for the customer through the outcomes they want to achieve the value and that gets generated for the supplier through the outcomes they want to achieve. But value is also generated for other stakeholders in this ecosystem.
+​
+
+## What is Products and services Part 2
+
+## what is service ?
+
+We will continue with the same example as we saw for the products. The laptop you purchased refuses to turn on two months after the purchase, you call in the support desk and they resolve the issue by sending a technician to your home the next day. This activity around fixing the issue is called a service. 
+
+   In this case, it was offered to you along with the product. Generally speaking, a service is a separate entity and need not be coupled with the purchase of a product. Let's also look at few other examples for service-
+   
+   Consider, you purchased a TV set top box. That TV set top box is a product, however. For the subscription channels, if you want to add, modify, or delete any of the channels, you call the customer care and then they provide you the service by adding or modifying or deleting those channels. For that they collect a subscription fee. This is an example for a service. Let's look at another example. Consider you've purchased a flat or an apartment. In this case, flat or an apartment is called a product. But if you have any issues with your electrical works or your plumbing works, you request the maintenance team to provide you a repair service. This is an example for a service. The maintenance fee that they collect on a regular basis is called a maintenance service fee.
+
+Now that we've seen what the products and services are, now let's look at some key aspects of products-
+
+A product is more frequently a one-off purchase while a service can be recurring. As we saw in the previous example, the TV set top box is purchased only once. However, the subscription channel modification is a recurring one, so that is, a service.
+
+A product can be returned while a service has to be canceled usually with notice. Again with the same example, you can surrender your TV set top box. However, a service has to be canceled. This means you can change your subscription from one format to another.
+
+A product has many different variations while a service is more standard and straightforward.
+
+Understanding the difference between products and services is vital for any business that wants to succeed. By being aware of these distinctions, companies can tailor their strategies to meet the specific needs of their customers and optimize their process for maximum profitability.
+
+
+## What is Products and services Part 3 - 
 
 
