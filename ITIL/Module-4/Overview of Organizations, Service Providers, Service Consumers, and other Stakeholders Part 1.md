@@ -169,9 +169,50 @@ For example, if you look at ITIL Version 2, it had service support and service d
 
       ![image](https://github.com/user-attachments/assets/968976de-f54f-479f-bdde-86beff39d839)
 
+## What are the service relationship ?
 
-      
+Service relatioship is  a cooperation between a service provider and service consumer. Service relationship include - Service provision. Service consumption and service relationship management. 
+The model of engagement that the service provider and the customer will have in order to co-create value is referred to as service relationship. And corporations need to constantly aim to do more than only render services. To produce service value, teamwork and a group effort are required. Organizations must envision the alignment and value cascade impact from organization to organization and co-create value in order to form service connections.
 
+The goal of a service relationship should be value creation between the firms or service providers and customers or service consumers. Although an organization typically delivers and consumes a variety of service at any given time, these dual responsibilities are not mutually incompatible.
+
+## What is service provision ?
+
+Service provision refers to the activities performed to provide service to service consumer by a service provider organization. This includes oversight of every resource used by the service provider and set up to supply the service. In other words, supplier services, hardware, and software, et cetera. Providing users, for example, the service consumers, access to these resources such as previously stated cloud services. Carrying out the agreed upon service actions in order to achieve the desired service outcome such as incident resolution or service component configurations, et cetera.
+
+Over the course of the service lifecycle, all services are provided and monitored and service levels and performance are continually improved. It might also refer to the supply of commodities such as the supply of items that customers order via online marketplaces like Amazon or eBay.
+
+## What is  service consumptions ?
+
+ Activities performed by an organization to consume services, service consumptions includes management of the resources needed by the customer to access and use the services. An instance of a consumer resource could be a network switch or router that connects to an internet service provider's internet services so that users can access them. User performed service actions include making use of the resources provided by the provider and making requests for service actions to be completed. For instance, using a web browser to open the portal and inputting the logging information to access a bank account using the net banking services. Consuming services might also involve obtaining or purchasing things. For instance, visiting an e-commerce gateway such as the websites for Amazon or eBay and placing an order for commodities or products. 
  
+## What is  service relationship management ?
+
+As we previously stated, both the service provider and the service user must carry out the necessary task to guarantee continuous co-creation of value. They must also guarantee that the services meet predetermined service levels and are accessible in accordance with predetermined service offerings. Every time a service provider provides a customer with a service, the provider must provide new resource to facilitate the service for the customer, giving the customer the platform they need to alter or personalize their current services. This would make it possible for a service provider's customer to receive services from them as well.
+
+
+
+## Value
+## Outcome
+## Cost
+## Risk
+
+## What are Values? 
+![image](https://github.com/user-attachments/assets/1f3e8767-5ade-4d29-b0fc-3c884d9528f4)
+
+You can see there are value additions in the right-hand side, which are supported outcomes, cause removed, risk removed. However, in the left-hand side, you can see what are all the factors that impacts the value. You have affected outcome, cause introduced, risk introduced. It's interesting to realize that a service worth extend beyond its development when one understands the fundamental ideas of IT service management. Value is subjective and depends upon the people and organizations using the services. To gain a better understanding of this, consider the following scenario. A person accustomed to living in a forest is transferred to a metropolis where the dynamics of the environment are different. This person might have culture shock at first since they are from a place where formal attire, makeup, and cosmetics are not customary. Further, they are taken to a restaurant, the customers are greeted and treated well, food is serviced in a dining table, there is a chair with a smooth sofa, a chef to cook, a waiter to serve, and other facilities which all come at a cost. This may frighten that individual irrespective of the kind of service being provided. In this case, for those who are privileged and utilize the service of the restaurant regularly, it may be a normal affair. But for this person who has come from a forest, it might come as a shock or a frightening or extreme experience. If the person stays there for long and gets used to this environment and continues availing the restaurant services, there may be change of perception and that would lead towards give me more or make it better. This is a normal natural tendency of a consumer. This has led towards evolution of technology and practices to ensure continual value creation. From this, it is evident to us that value realization is perceived rather than being created
+
+  ## What are Outcomes?
+
+Acting as a service provider, an organization produces outputs that help its consumers to achieve certain outcomes. Let's look at the definition as per ITIL. 
+An output is a tangible or intangible deliverable of an activity, whereas an outcome is a result for a stakeholder enabled by one or more outputs. Let's look at some examples.
+
+Assume for the moment that a company intends to launch an HR internet portal so that workers may report things like leaves of absence, local transportation, etc. Assuming that the current method of doing things by hand is manual and time-consuming resulting in mistakes and delays. Thus, the anticipated outcomes in this case could be an output would be internet portal for claim submission. An outcome would be improved speed of clearance, reduced error, etc. Value or benefits would be increased productivity of employees. Ideally, a value has to be created by utility and warranty of the services with the reduced impact of affected services, cost, and risk where the outcomes should be supportive. This distinction which is clear from the previously given example must be understood. When we discuss such examples which are in a control setting like an organization, it is very simple to see and comprehend the output and outcome. However, in cases where the organization has no easy access to the services like retail services, it is challenging to describe and narrate easily. Organizations do these through survey, consumer feedback, marketing campaign, etc. Let's look at what is utility and warranty.
+
+## What is utility and warranty ?
+Utility refers to the features and functionalities of the product or service which offers to meet a particular need of the consumer. Utility addresses the point what the service does and what the service is used to determine. Is the service being fit for purpose? Services with utility must support the performance of the consumer and remove constraints from the consumer or at least one of these.
+## Let's look at what is warranty. Warranty 
+
+Refers to assurance that a product or service will provide and meet agreed requirements. This means how the service performs and whether the service is fit for use. Warranty basically refers to and addresses issues of service that is availability, capacity, security and continuity. Let's look at the same example referring to the HR portal scenario. The utility of the portal services can be submission of claims, scanning and uploading of the proof documents, defined templates, speed of processing, etc. Whereas the warranty shall refer to the availability of portal like 24 by 7 available, can provide the concurrent access to thousand users which is also known as capacity. Every user has a unique credentials to log in which represents security. Having a failover to ensure the continuous availability of the services even after primary data center fails due to some reasons. This refers to as continuity.
 
 
