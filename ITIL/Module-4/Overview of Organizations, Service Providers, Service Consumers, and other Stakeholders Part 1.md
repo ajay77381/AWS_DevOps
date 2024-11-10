@@ -141,4 +141,37 @@ Understanding the difference between products and services is vital for any busi
 
 ## What is Products and services Part 3 - 
 
+we will see how products and service are interrelated.
+
+When examining many instances of products and services, it becomes clear that while a graphic designer offers a service, the end result is typically a tangible product, such as new business cards, brochures or logos. Alternatively, a legal firm might offer legal services, but that could also result in written correspondence like contracts and letters. Thus, it is possible to combine services and product.
+
+For example, think of a subscription meal kit. The subscription itself is a service that provides meal preparation products. Let's look at how ITIL is viewing the products and services together. ITIL is a service management framework, meaning it is all about services. 
+
+For example, if you look at ITIL Version 2, it had service support and service delivery as the core component. In ITIL V3 they had five life cycles such as service strategy, service design, service transition, service support, and continual service improvement. Since products are no longer simply products but rather services, it falls under the service management pace of ITIL. ITIL has become even more powerful contrary to what people believe that digital transformation is going to make ITIL less relevant. The strategy and design of services cannot be done in isolation anymore. It needs to be done hand in glove with the product development
+
+## What is Products and services Part 4
+
+## What is a product?
+
+ It is a configuration of an organization resources designed to offer value for a consumer.
+
+ ## What is  service ?
+ 
+ It is a means of enabling value creation by facilitating outcomes that customer wants to achieve without the customer having to manage specific cost and risk. All products manufactured by a company are designed to meet the specific needs of the target consumer base.
+ 
+ For example, in case of mobile users, the products that manufactured by a company is a mobile phone, and the targeted consumer base is the person who used the mobiles. These features and functions are unique to each product. Additionally, the goods are tailored to meet the customer needs. Let's look at an example. An enterprise network uses a router with certain features and functionalities such as port count and IOS and these are customized. For example, IP address, routing, et cetera, to meet the needs of the business. 
+ 
+      When a product is created, it is meant to serve multiple distinct customer groups rather than being used exclusively by one. The product will consist of multiple parts, some of which will be visible to customers and some of which won't. The portions of the product that are visible to customers do not include every component. It includes every element required for that product to function. The product is configured by the user to meet their needs.
+      
+      Now let's look at services. Similar to product, services are also composed of numerous components such as products and services. This is where the products and services get interlinked. The interface that customer use to access the service will only include those interfaces that are necessary to use the service. It will not include all of the components. Let's look at an example.
+      For instance, the Intranet portal used by the organization's employees to access the HR services. The Intranet portal serves as the service interface in this case, and the presence of servers, LAN service, and other components guarantees that employees may access the service. Now let's look at the service offerings based on the products and services. Service providers present their services to consumers in the form of service offerings, which describe one or more services based on one or more products. Now let's look at the definition of service offerings as per ITIL. It is termed as a formal description of one or more services designed to address the needs of a target consumer group. A service offering may include: goods, access to resources, and service actions. Now let's look at service relationships. To create value, an organization must do more than simply provide a service. It must also cooperate with the consumers in service relationships. For example, if you buy a set up box, the customer will also look forward to the after sale services. For example, if you need any addition deletion or modification of channels, they expect the customer care to provide that service. Service relationships are established between two or more organizations to co-create value. In a service relationship, organizations will take on the roles of service providers or service consumers. The two roles are not mutually exclusive, and the organizations typically both provide and consume a number of services at any given time. For example, in an IT environment, if there is a niche skill involved and if the current organization does not have the capable resource to deliver that service, they outsource it to another organization. In that case, the outsourced organization will be the service provider and the organization which has outsourced will become the service consumers.
+
+
+      ![image](https://github.com/user-attachments/assets/968976de-f54f-479f-bdde-86beff39d839)
+
+
+      
+
+ 
+
 
