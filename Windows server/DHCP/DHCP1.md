@@ -26,4 +26,34 @@ Question- What is Gateway ?
 Gateway is use to comniture between your private network and public network.
 
 
+NIC card tunning -
+
+![image](https://github.com/user-attachments/assets/852c5c38-bdf2-469e-92a2-4af5d48aedc9)
+Before start tunning make sure there is no ip in all NIC in which we are going to tunning.
+
+How to configuring the NIC in tnning mode ?
+
+Step-1  Go to the server manager > Local server >  and click on the NIC tunning and enable it.
+
+![image](https://github.com/user-attachments/assets/d5eeaa5b-fe14-41a3-9dfb-f6132bc986cb)
+
+Step-2
+
+Click on the task option and make the team
+
+![image](https://github.com/user-attachments/assets/6017e055-3be3-4500-8fc8-653ee249c52b)
+
+We can also keep one NIC in stand mode -
+
+![image](https://github.com/user-attachments/assets/97585a72-58e8-4b66-98c2-3ae61936152c)
+
+After creating the team we'll be able to see one virtual network in which we do all the work like ip v4 configuration etc. and remaning NIC properties will be hilightited and we wouldn't be able to assign ip adddess in that -
+
+![image](https://github.com/user-attachments/assets/7b446d58-b406-41e7-8253-4bb3fdfdbeef)
+
+
+
+
+
+
 
