@@ -70,6 +70,25 @@ PS> $n / 7
 1.71428571428571
 
 
+https://www.youtube.com/watch?v=BVzKmZT7z_o&list=PLcj5HCtrio7Ep6tfPNxhACkCEuCMZe95x
+
+
+
+Powershell
+
+
+Rename-NetAdapter -Name Ethernet -NewName eh
+
+
+To know the interface name-
+
+Get-NetAdapter 
+
+Assign ip address by powershell-
+
+New-NetIPAddress -InterfaceIndex 15 -IPAddress 10.0.0.40 -PrefixLength 8 -DefaultGateway 10.0.0.0
+
+
  
 
 
