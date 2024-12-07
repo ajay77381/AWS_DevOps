@@ -29,3 +29,19 @@ For removing the file
 `rm -r
 `
 For removing directory 
+
+`free -g
+`
+For what is the memory of your laptop
+
+`nproc
+`
+To see the number of CPU in your laptop / desktop
+
+`df -h
+`
+To see the disk size in system 
+
+`top
+`
+To see the all details- like cpu, memory, and memory useges etc.
