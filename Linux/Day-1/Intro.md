@@ -68,55 +68,106 @@ If we open many application  if any case RAM is full in this situation open file
 
 
    18  df -h
+   
    19  rm -rf dev
+   
    20  ls -la /mnt/d/dev/
+   
    21  ln -sf /mnt/d/dev/  --- For link the (-s, --symbolic : make symbolic links instead of hard links) and (-f, --force : remove existing destination files)
+   
    22  ls -a
+   
    23  ls -la
+   
    24  cd dev
+   
    25  git clone https://github.com/ajay77381/java_tdd_maven.git
+   
    26  cd java_tdd_maven/
+   
    27  java -vervsion
+   
    28  java -- version
+   
    29  java -version
+   
    30  curl -s "https://get.sdkman.io" | bash
+   
    31  sudo apt update
+   
    32  sudo apt install zip unzip
+   
    33  curl -s "https://get.sdkman.io" | bash
+   
    34  sdk
+   
    35  java -version
+   
    36  sdk list java
+   
    37  sdk install java 8.0.412-amzn
+   
    38  java -version
+   
    39  exit
+   
    40  cd dev/
+   
    41  list
+   
    42  ls
+   
    43  cd java_tdd_maven/
+   
    44  java -version
+   
    45  sdk install maven 3.9.5
+   
    46  mvn
+   
    47  mvn clean install
+   
    48  sdk install maven 3.9.5
+   
    49  mvn clean spring-boot:run
+   
    50  node -version
+   
    51  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+   
    52  nvm
+   
    53  exit
+   
    54  nvm
+   
    55  nvm --list
+   
    56  nvm -list
+   
    57  nvm ls-remote
+   
    58  node -version
+   
    59  nvm install v22.3.0
+   
    60  node -version
+   
    61  node -V
+   
    62  node -v
+   
    63  nvm install v22.2.0
+   
    64  node -v
+   
    65  nvm install v22.3.0
+   
    66  node -v
+
+   
    67  history
+   
 test@DESKTOP-M8NEQM2:~$
 
 
@@ -137,35 +188,66 @@ https://dev.to/andreidascalu/soap-vs-rest-vs-grpc-vs-graphql-1ib6
 
 ........................
 ^Cajay@DESKTOP-M8NEQM2:~/dev/fibo/fibbo-app$ history
+
     1  java -version
+    
     2  sudo apt-get update
+    
     3  java -version
+    
     4  sudo apt install zip unzip
+    
     5  sdk list java
+    
     6  jav -version
+    
     7  java -version
+    
     8  ls -la /mnt/d/dev/
+    
     9  ln -sf /mnt/d/dev/
+    
    10  ls -la
+   
    11  cd dev
+   
    12  curl -s "https://get.sdkman.io" | bash
+   
    13  cd
+   
    14  sudo apt-get autoremove ubuntu-sdk
+   
    15  sudo apt-get --purge remove ubuntu-sdk
+   
    16  cd /home/ajay
+   
    17  sudo apt-get --purge remove ubuntu-sdk
+   
    18  cd dev/
+   
    19  sdk list java
+   
    20  java -version
+   
    21  clear
+   
    22  $ source "$HOME/.sdkman/bin/sdkman-init.sh"
+   
    23  source "$HOME/.sdkman/bin/sdkman-init.sh"
+   
    24  sdk version
+
+   
    25  list java
+   
    26  sdk list java
+   
    27  cd dev
+   
    28  sdk list java
+   
    29  sdk install java 21.0.2-open
+   
    30  lsb_release -a
    31  ls
    32  cd dev
