@@ -81,3 +81,9 @@ mkdir ajaycloud
 # create two file
 cd ajaycloud
 touch firstfile secondfile
+
+Why we use shell scripting ?
+
+suppose- i am a devops engineer and i have to manage 100 server so what i can do i'll write a simple shell script who help me to monitor the vm. Like- memory utilization, CPU utilization, HdD utilization.
+
+If someone ask there are many monitoring tool why you use scrip to do this- we can say we don't use such type of monitoring tool.
