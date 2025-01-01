@@ -16,3 +16,16 @@ Class D & E reserved for multicalst and sciencetistific purpose.
 
 
 ![image](https://github.com/user-attachments/assets/05aadebd-b6aa-417c-b7f5-1644a7f09c32)
+
+As per above why we are writing -5 and why not -2 like CCNA subneting.
+
+Because as per microsoft azure we can not use the below ip address because these ip address are resereved for specfic purpose.
+
+10.0.0.0
+10.0.0.1
+10.0.0.2
+10.0.0.3
+10.255.255.255 - Broad cost IP 
+
+Note- for azure peospective we user fourmula 2^n-5
+but in general termenology we user 2^n-2
