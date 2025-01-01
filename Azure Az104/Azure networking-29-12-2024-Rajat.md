@@ -52,5 +52,11 @@ Azure virtual network )VNET) is the fundamental building block for your private 
 - Region - virtual networks are scoped to a single single location called a region . Multiple virtual network from diffrent regions can be connected together using virtual network peering.
 - Subscription- virtual network are scoped to a subscription. You can impliment multiple virtual network within each azure subscription and azure region.
 
+  ## What is Azure extended zone ?
+
+  Azure extended zone are an offering from microsoft azure that enable data processing close to user. You can deploy VMs,containers, storage, and other azure service into Azure extended zones to address the low latency and high throughput requirement of application .
+
+  Azure extended is a premimum solution for azure and will incure aditional charges.
+
 
 
