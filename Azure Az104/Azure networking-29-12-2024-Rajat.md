@@ -58,5 +58,40 @@ Azure virtual network )VNET) is the fundamental building block for your private 
 
   Azure extended is a premimum solution for azure and will incure aditional charges.
 
+  ## What is Azure Bastion ?
+
+  Azure bastion is the service that provide secure RDP / SSh connectivity to your virtual machine over TLS when you connect via Azure Bastion , you virtual machine do not need a public address.
+
+  Azure Firewall - is a manage cloud base network security service that protect your Azure virtual network resource.
+  
+
+Created one Vnet -Example
+
+![image](https://github.com/user-attachments/assets/330cb227-8d80-4167-ba52-697567242133)
+
+What is diffrent between address space and subnet ?
+
+What ever CIDR notastion we provide on VPC level that is address space and what ever cidr notation we give for subnet level that is subnet address range.
+
+
+# Connecting diffrent VNET or vnet peering ?
+
+Peering the the connection of multiple vnets and there is two type of peering 
+
+1- Regional peering 
+
+2- Global peering
+
+What is REgional peering - Wehen you connect two network in same region that is called Regional peering.
+
+whtat is global peering - when you connect two network in diffrent region that is called global peering.
+
+
+## There are two way you can connect your azure vnets.
+
+1- Vnet peering 
+
+2- Vnet to Vnet connection gateway
+
 
 
