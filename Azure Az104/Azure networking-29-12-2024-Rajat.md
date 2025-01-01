@@ -27,11 +27,27 @@ Because as per microsoft azure we can not use the below ip address because these
 10.0.0.3
 10.255.255.255 - Broad cost IP 
 
-**Note- for azure peospective we user fourmula 2^n-5**
+**Note- for azure peospective we user formula 2^n-5**
 but in general termenology we user 2^n-2
 
 Example- VNET
 
 ![image](https://github.com/user-attachments/assets/1d115f95-daea-49d3-8720-59652ce80c3f)
+
+What is Azure Virtual netowrk ?
+
+Azure virtual network )VNET) is the fundamental building block for your private network in Azure. Vnet enable many type of azure resource such as Azure virutal machine (VM) to securly communicate each other, the internet and on premises network. 
+
+## VNET component 
+
+1- Address space 
+2- Subnet 
+3- Region 
+4- Subscription
+
+- An address space is the range of ip address . Azure will assign the next available ip address from this address space to resource in your virutal netwok.
+  Like- 10.0.0.0\24
+  
+- Subnet is the logical segment of a virutal network . A subnet is allocated a portion of the virtual network address's space.
 
 
