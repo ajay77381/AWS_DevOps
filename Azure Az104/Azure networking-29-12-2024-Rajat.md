@@ -27,5 +27,11 @@ Because as per microsoft azure we can not use the below ip address because these
 10.0.0.3
 10.255.255.255 - Broad cost IP 
 
-Note- for azure peospective we user fourmula 2^n-5
+**Note- for azure peospective we user fourmula 2^n-5**
 but in general termenology we user 2^n-2
+
+Example- VNET
+
+![image](https://github.com/user-attachments/assets/1d115f95-daea-49d3-8720-59652ce80c3f)
+
+
