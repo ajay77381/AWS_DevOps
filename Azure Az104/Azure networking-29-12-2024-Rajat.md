@@ -49,5 +49,8 @@ Azure virtual network )VNET) is the fundamental building block for your private 
   Like- 10.0.0.0\24
   
 - Subnet is the logical segment of a virutal network . A subnet is allocated a portion of the virtual network address's space.
+- Region - virtual networks are scoped to a single single location called a region . Multiple virtual network from diffrent regions can be connected together using virtual network peering.
+- Subscription- virtual network are scoped to a subscription. You can impliment multiple virtual network within each azure subscription and azure region.
+
 
 
