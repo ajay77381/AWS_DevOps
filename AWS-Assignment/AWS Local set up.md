@@ -1,53 +1,28 @@
-### The Software Development Kit Manager
+### How to install & configure the AWS CLI  in Ubuntu ?
 
-### create the directory in d rive by the name *dev*
+To configure AWS credentials and set up to work with AWS, you'll need to follow these steps:
 
-ls -la /mnt/d/dev/
+Install AWS CLI (Command Line Interface):
+Make sure you have the AWS CLI installed on your machine. You can download and install it from the [AWS CLI download page](https://aws.amazon.com/cli/).
 
-ln -sf /mnt/d/dev/
-ls -la
-cd dev
+The following aws configure command example demonstrates user input, replaceable text, and output:
 
-git clone https://github.com/ajay77381/java_tdd_maven.git
+Enter **aws configure**  at the command line, and then press Enter.
 
-cd java_tdd_maven/
+The AWS CLI outputs lines of text, prompting you to enter additional information.
 
-## Local Java version manager set up-
+Enter each of your access keys in turn, and then press Enter.
 
-java -vervsion
+Then, enter an AWS Region name in the format shown, press Enter, and then press Enter a final time to skip the output format setting.
 
-``` 
-Sudo apt  update
-```
-```
-sudo apt install zip unzip
-``
- ``
-curl -s "https://get.sdkman.io" | bash
-``
-Follow the on-screen instructions to wrap up the installation. Afterward, open a new terminal or run the following in the same shell-
- source "$HOME/.sdkman/bin/sdkman-init.sh"
+The final Enter command is shown as replaceable text because there is no user input for that line.
 
+ `
+sudo apt install awscli
+`
 
-Lastly, run the following snippet to confirm the installation's success:
-$ sdk version
-```
-
-You should see output containing the latest script and native versions:
-
-SDKMAN!
-script: 5.18.2
-native: 0.4.6
-
-
-sdk list java
-
-
-
-Now install the required version of java from the given list-
-
-sdk install java 8.0.412-amzn
-
-java -version
-
-
+> $ aws configure
+AWS Access Key ID [None]: AKIAIOSFODNN7EXAMPLE
+AWS Secret Access Key [None]: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+Default region name [None]: us-west-2
+Default output format [None]: ENTER
